@@ -20,7 +20,7 @@ public enum Lang {
   COMMAND_HELP_SUB_COMMAND_HOVER("&6{0}"),
   COMMAND_HELP_DIVIDER("&a--------------------------------"),
   COMMAND_WEBSITES_TITLE("&a---- &e[ &2&lVote Websites &e] &a----"),
-  COMMAND_WEBSITE_ONE("&31&b. &6&lMojang"),
+  COMMAND_WEBSITE_ONE("&31&b. &6&lMojang &a(Coming soon!)"),
   COMMAND_WEBSITE_ONE_LINK("https://findmcserver.com/server/NmEpUub630"),
   COMMAND_WEBSITE_TWO("&32&b. &6&lPlanet Minecraft"),
   COMMAND_WEBSITE_TWO_LINK("https://www.planetminecraft.com/server/journey-towns"),
