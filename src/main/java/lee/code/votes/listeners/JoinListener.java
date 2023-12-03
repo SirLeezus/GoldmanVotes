@@ -17,6 +17,5 @@ public class JoinListener implements Listener {
     if (!votes.getCacheManager().getCacheVotes().hasPlayerData(e.getPlayer().getUniqueId())) {
       votes.getCacheManager().getCacheVotes().createPlayerData(e.getPlayer().getUniqueId());
     }
-    votes.getCacheManager().getCacheVotes().getVoteData().addVote(e.getPlayer().getUniqueId());
   }
 }
