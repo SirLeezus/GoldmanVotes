@@ -1,0 +1,8 @@
+vote {
+  total;
+  websites;
+  help;
+  top {
+    page brigadier:integer;
+  }
+}

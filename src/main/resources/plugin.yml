@@ -1,0 +1,12 @@
+name: GoldmanVotes
+version: ${version}
+main: lee.code.votes.Votes
+api-version: 1.20
+author: Lee
+folia-supported: true
+depend: [GoldmanEconomy, GoldmanColors, GoldmanPlayerData, Votifier]
+commands:
+  vote:
+    description: Main towns command.
+    permission: votes.command.vote
+    aliases: [votes]
